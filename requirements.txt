@@ -1,5 +1,5 @@
-numpy
+numpy==1.21.4
 joblib
-streamlit
-scikit-learn
+streamlit==1.2.0
+scikit-learn==1.0.1
 protobuf==3.20.1
